@@ -1,4 +1,12 @@
 from django.shortcuts import render
+import numpy as np # linear algebra
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# pip install mysql-connector-python
+
+import mysql.connector
+import json
 
 # Create your views here.
 
